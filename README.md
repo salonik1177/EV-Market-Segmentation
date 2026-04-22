@@ -76,7 +76,7 @@ To determine:
 ##  Geographic Insights
 
 <p align="center"> 
-<img src="visuals/pic3.png" width="570">
+<img src="visuals/pic3.png" width="670">
 <br><b>State Adoption</b>
 </p>
 
@@ -89,7 +89,7 @@ To determine:
 ##  Infrastructure Insights
 
 <p align="center"> 
-<img src="visuals/pic4.png" width="570">
+<img src="visuals/pic4.png" width="670">
 <br><b>Charging Infra</b>
 </p>
 ![](images/charging_infra.png)
