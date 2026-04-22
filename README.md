@@ -13,9 +13,9 @@ To determine:
 
 ---
 
-## Key Insight (TL;DR)
+## Key Insight 
 
-👉 Recommended strategy:
+ Recommended strategy:
 - **Product:** Electric 2-Wheelers (2W)  
 - **Target:** Urban budget-conscious commuters (age 20–40)  
 - **Market:** Delhi NCR, Bengaluru, Pune, Hyderabad  
@@ -26,7 +26,7 @@ To determine:
 ##  Market Trends
 
 <p align="center"> 
-<img src="visuals/pic1.png" width="550">
+<img src="visuals/pic1.png" width="570">
 <br><b>EV Growth</b>
 </p>
 
@@ -37,21 +37,35 @@ To determine:
 
 ---
 
-## 🚗 Vehicle Insights
+##  Vehicle Insights
 
-![Vehicle Trends](images/vehicle_trends.png)
+<p align="center"> 
+<img src="visuals/pic2.png" width="570">
+<br><b>Vehicle Trends</b>
+</p>
+
 
 - **2W segment leads with 850K+ sales (2023)**  
 - 3W shows consistent growth in commercial use  
 - 4W adoption limited due to high cost and infrastructure needs  
 
-👉 **Conclusion:** 2W is the most scalable and accessible entry segment  
+ **Conclusion:** 2W is the most scalable and accessible entry segment  
 
 ---
 
-## 👥 Customer Insights
+## Customer Insights
 
-![Customer Insights](images/customer_segmentation.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="visuals/pic7.png" width="430"/>
+    </td>
+    <td align="center">
+      <img src="visuals/pic8.png" width="430"/>
+    </td>
+  </tr>
+</table>
+
 
 - Income has strong correlation with EV purchase (~0.95)  
 - Active buyers: working professionals & urban commuters  
@@ -59,27 +73,44 @@ To determine:
 
 ---
 
-## 🌍 Geographic Insights
+##  Geographic Insights
 
-![State Adoption](images/state_adoption.png)
+<p align="center"> 
+<img src="visuals/pic3.png" width="570">
+<br><b>State Adoption</b>
+</p>
+
 
 - Top adoption states: Uttar Pradesh, Maharashtra, Karnataka, Delhi  
 - Metro cities show highest readiness due to infrastructure and incentives  
 
 ---
 
-## 🔌 Infrastructure Insights
+##  Infrastructure Insights
 
-![Charging Infra](images/charging_infra.png)
+<p align="center"> 
+<img src="visuals/pic4.png" width="570">
+<br><b>Charging Infra</b>
+</p>
+![](images/charging_infra.png)
 
 - Delhi, Maharashtra, Karnataka lead in charging station availability  
 - Strong infrastructure supports EV adoption in urban regions  
 
 ---
 
-## 🤖 Segmentation Approach
+##  Segmentation Approach
 
-![Clustering](images/clustering.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="visuals/pic5.png" width="430"/>
+    </td>
+    <td align="center">
+      <img src="visuals/pic6.png" width="430"/>
+    </td>
+  </tr>
+</table>
 
 - Applied **K-Means clustering + PCA**  
 - Identified 3 segments:
@@ -87,11 +118,11 @@ To determine:
   - Mid-range EV users
   - Premium EV buyers  
 
-👉 **Target Segment:** Budget-conscious urban commuters  
+ **Target Segment:** Budget-conscious urban commuters  
 
 ---
 
-## 💡 Business Strategy (4Ps)
+##  Business Strategy (4Ps)
 
 **Product**
 - Electric scooters/mopeds for daily commute  
@@ -112,7 +143,7 @@ To determine:
 
 ---
 
-## 📊 Market Opportunity
+##  Market Opportunity
 
 - Working population (20–40): ~10M  
 - EV 2W users: ~2M  
@@ -123,11 +154,11 @@ To determine:
 - Cost: ₹90K  
 - Profit/unit: ₹30K  
 
-👉 **Estimated Profit: ₹300 Crore**
+ **Estimated Profit: ₹300 Crore**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python (Pandas, NumPy)  
 - Scikit-learn (K-Means, PCA)  
@@ -135,6 +166,6 @@ To determine:
 
 ---
 
-## 📂 Project Structure
+
 
 
