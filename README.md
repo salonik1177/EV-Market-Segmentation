@@ -40,7 +40,7 @@ To determine:
 ##  Vehicle Insights
 
 <p align="center"> 
-<img src="visuals/pic2.png" width="570">
+<img src="visuals/pic2.png" width="600">
 <br><b>Vehicle Trends</b>
 </p>
 
@@ -58,10 +58,10 @@ To determine:
 <table>
   <tr>
     <td align="center">
-      <img src="visuals/pic7.png" width="430"/>
+      <img src="visuals/pic7.png" width="450"/>
     </td>
     <td align="center">
-      <img src="visuals/pic8.png" width="430"/>
+      <img src="visuals/pic8.png" width="450"/>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ To determine:
 ##  Infrastructure Insights
 
 <p align="center"> 
-<img src="visuals/pic4.png" width="720">
+<img src="visuals/pic4.png" width="750">
 <br><b>Charging Infra</b>
 </p>
 ![](images/charging_infra.png)
