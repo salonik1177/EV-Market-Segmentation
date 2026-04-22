@@ -92,7 +92,7 @@ To determine:
 <img src="visuals/pic4.png" width="750">
 <br><b>Charging Infra</b>
 </p>
-![](images/charging_infra.png)
+
 
 - Delhi, Maharashtra, Karnataka lead in charging station availability  
 - Strong infrastructure supports EV adoption in urban regions  
