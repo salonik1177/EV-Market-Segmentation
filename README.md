@@ -1,10 +1,10 @@
-# ⚡ EV Market Segmentation & Entry Strategy
+#  EV Market Segmentation & Entry Strategy
 
 A data-driven project to identify the most viable market entry strategy for an EV startup in India using real-world datasets, clustering, and business analysis.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To determine:
 - The most feasible EV category (2W, 3W, 4W, commercial)
@@ -13,7 +13,7 @@ To determine:
 
 ---
 
-## 📊 Key Insight (TL;DR)
+## Key Insight (TL;DR)
 
 👉 Recommended strategy:
 - **Product:** Electric 2-Wheelers (2W)  
@@ -23,9 +23,13 @@ To determine:
 
 ---
 
-## 📈 Market Trends
+##  Market Trends
 
-![EV Growth](images/ev_growth.png)
+<p align="center"> 
+<img src="visuals/pic1.png" width="550">
+<br><b>EV Growth</b>
+</p>
+
 
 - EV adoption in India has grown rapidly in recent years  
 - 2W and 3W segments show the strongest growth trends  
