@@ -58,7 +58,7 @@ To determine:
 <table>
   <tr>
     <td align="center">
-      <img src="visuals/pic7.png" width="450"/>
+      <img src="visuals/pic7.png" width="470"/>
     </td>
     <td align="center">
       <img src="visuals/pic8.png" width="450"/>
